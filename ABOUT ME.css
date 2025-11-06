@@ -1,0 +1,54 @@
+h1{
+ color : red ; 
+ font-size: 100x;
+ background: green;
+ text-align: center;
+}
+
+
+h3{font-size : 200px }
+
+   #last_h1
+   {
+ color : yellow; 
+ 
+}
+
+
+
+   #first_h1
+   {
+ color : red; 
+ 
+}
+
+   #second_h1
+   {
+ color : red; 
+ 
+}
+
+  #third_h1
+   {
+ color : blue; 
+ 
+}
+
+  #fourth_h1
+   {
+ color : blue; 
+ 
+}
+
+  .first
+   {
+ color : orangered; 
+ 
+}
+
+  .last
+   {
+ color : white; 
+   }
+
+ #a {color:blueviolet}
